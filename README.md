@@ -12,3 +12,9 @@
 | DFT      |61.69 |  52.23     |  83.95    |  78.37     | 48.22 |64.25 |  51.20  | **62.84**|
 | ORPO     |62.26 |  48.26     |  83.07    |  79.16     | 45.41 |62.20  |  53.41 | 61.97|
 | DPO-p    |62.01 |  48.66     |  84.03    |  78.61     | 40.48 |62.20  |  25.32 | 57.33|
+
+### Figure 1: Log likelihoods of positives while training
+![image](Fig1.png)
+
+### Figure 2: Log likelihoods of negatives while training
+![image](Fig2.png)
